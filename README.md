@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm member of FTSec Team.
+- I'm currently working on java development.
 <img 
    align="right" 
    style="pointer-events:none;" 
