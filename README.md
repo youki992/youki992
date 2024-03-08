@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 />
 - I'm member of FTSec Team.
 - I'm currently working on java development.
+  ![](https://www.ftsec.cn/team-logo.jpg)
