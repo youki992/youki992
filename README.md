@@ -6,7 +6,7 @@
 />
 
 - 🔭 I'm member of FTSec Team.
-- I'm currently working on java development.
+- I'm currently working on Java development.
 - 📫 How to reach me: ft1374076342@163.com
 
 
