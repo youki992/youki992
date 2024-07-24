@@ -7,6 +7,6 @@
 
 - 🔭 I'm member of Code4th Sec Team.
 - I'm currently working on Java development.
-- 📫 How to reach me: ft1374076342@163.com
+- 📫 How to reach me: code4th@163.com
 
 
